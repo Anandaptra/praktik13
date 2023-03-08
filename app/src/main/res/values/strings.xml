@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">praktik13</string>
+    <string name="desKapucino">Komposisi seimbang dari espreso house blend terbaik yang dipadukan dengan busa susu segar pilihan.</string>
+    <string name="desKopi">Diseduh dari bubuk kopi pilihan yang dikeringkan, dimasak, dan dihaluskan dengan kualitas sempurna.</string>
+    <string name="desTeh">Diramu dari pucuk daun teh hitam dan daun melati terbaik yang dikeringkan dan dirajang dengan cermat.</string>
+
+    <string-array name="jenis">
+        <item>Reguler - Dingin</item>
+        <item>Reguler - Panas</item>
+        <item>Besar - Dingin</item>
+        <item>Besar - Panas</item>
+    </string-array>
+</resources>
